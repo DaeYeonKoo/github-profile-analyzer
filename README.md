@@ -2,6 +2,8 @@
 
 GitHub 사용자명을 입력하면 AI(Claude)가 해당 개발자의 기여 패턴, 기술 스택, 개발자 페르소나를 분석해 게임 캐릭터 카드 스타일로 보여주는 웹앱입니다.
 
+**🚀 배포**: https://github-profile-analyzer-iota.vercel.app
+
 ## 기술 스택
 
 - **프론트엔드**: Next.js 14 (App Router, `src/app` 구조), TypeScript (strict mode), Tailwind CSS
